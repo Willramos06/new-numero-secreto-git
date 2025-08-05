@@ -69,5 +69,5 @@ function reiniciarJogo() {
 
 
 
-
+// <img src="./img/ia.png" alt="Uma pessoa olhando para a esquerda" class="container__imagem-pessoa" />
 
